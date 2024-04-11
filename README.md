@@ -27,8 +27,7 @@ mtturk26@gmail.com
 ##### Tools & Libraries
 [![My Skills](https://skillicons.dev/icons?i=postman,redis,kubernetes,docker,github,maven,idea)](https://skillicons.dev)
 
-##### Deneme
-<a href=”https://www.linkedin.com/in/merveturk2606/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Merve Turk | LinkedIn” width=”21px”/></a>
+
 <!--
 
 
