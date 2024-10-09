@@ -5,8 +5,7 @@
 
 
 - 🔭 Currently working Spring Framework.
-- 🎓 Graduated from Karabuk University in 2018 with a Computer Engineering.
-- 🌟 Experience in Java Backend Development ,  RESTful API Development, MikroServices & Monolith Architecture , N-Tier Architecture, Docker , Redis , Kubernetes. 
+- 🌟 Experience in Java Backend Development ,  RESTful API Development, MicroServices & Monolithic Architecture , N-Tier Architecture, Docker , Redis , Kubernetes. 
 - 🎯 Enhancing my skills by solving coding problems on various platforms, acquiring knowledge about cutting-edge technologies, and also undertaking new projects.
 
 
